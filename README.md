@@ -50,6 +50,23 @@ This project demonstrates an **end-to-end data science + operations system** tha
 - **Improve Service Level:** Keep products available when customers need them
 - **Increase Profitability:** Combine forecasting + inventory science
 
+### Screenshots
+
+#### Dashboard Overview
+![Dashboard Screenshot](images/dashboard_screenshot.png)
+
+#### Sales Distribution Analysis
+![Sales Distribution](images/sales_distribution.png)
+
+#### Forecast vs Actual
+![Forecast vs Actual](images/forecast_vs_actual_sample.png)
+
+#### Inventory Priority Heatmap
+![Inventory Heatmap](images/inventory_priority_heatmap.png)
+
+#### Model Performance Metrics
+![Model Metrics](images/model_metrics.png)
+
 ---
 
 ## 🔴 Problem Statement
