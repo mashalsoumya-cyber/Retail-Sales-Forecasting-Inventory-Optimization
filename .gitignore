@@ -42,6 +42,7 @@ outputs/*
 *.jpg
 images/*
 !images/.gitkeep
+!images/*
 
 # Logs
 *.log
